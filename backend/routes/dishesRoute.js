@@ -3,7 +3,7 @@ const router = express.Router();
 const dishes = require('../controllers/dishesController');
 
 /* @GET URL */
-router.get("/message", dishes.message);
+// router.get("/message", dishes.message);
 router.get("/getDishes", dishes.getDishes);
 
 
