@@ -1,0 +1,3 @@
+[submodule "Restaurant-Application-Frontend"]
+	path = Restaurant-Application-Frontend
+	url = https://github.com/rayhanebousnina/Restaurant-Application-Frontend.git
